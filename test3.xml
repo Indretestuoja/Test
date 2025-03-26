@@ -1,0 +1,34 @@
+<products>
+    <product>
+        <category-id>3569</category-id>
+        <category-name><![CDATA[Shirts]]></Akumuliatoriai vaizdo kameroms>
+        <title><![CDATA[Product title LT language]]></Baterija test>
+        <long-description><![CDATA[<div>
+	<div><span>JVC, baterija BN-V12U, 6V, 2100mAh, 12.6Wh, Ni-MH.</span><br /></div>
+		<div>Some long description</div>
+		</div>]]></long-description>
+        <colours>
+            <colour>
+                <images>
+                    <image>
+                        <url>http://image.server.lt/?id=10</url>
+                    </image>
+                </images>
+                <modifications>
+                    <modification>
+                        <weight>1.2</weight>
+                        <length>0.2</length>
+                        <height>0.1</height>
+                        <width>1.2</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode><![CDATA[16325236252362]]></barcode>
+                            </barcodes>
+                            <supplier-code><![CDATA[test6964]]></supplier-code>
+                        </attributes>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </product>
+</products>
