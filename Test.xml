@@ -1,4 +1,64 @@
 
 <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <products>
-</products>
+<product>
+<category-id>5828</category-id>
+<category-name><![CDATA[Moteriški skėčiai]]></category-name>
+<title><![CDATA[Skaidrus skėtis]]></title>
+<title-ru><![CDATA[Skaidrus skėtis]]></title-ru>
+<title-lv><![CDATA[Skaidrus skėtis]]></title-lv>
+<title-ee><![CDATA[Skaidrus skėtis]]></title-ee>
+<title-fi></title-fi>
+<long-description><![CDATA[Skaidrus skėtis.
+Daugeliu atvejų skėtis yra naudingas aksesuaras, kuris papildomai apsaugo mus nuo lietaus, vėjo ar saulės.
+Apibūdinimas:
+Labai lengva atidaryti tik viena ranka. Rėmas yra juodas, rankena ir visos kitos dalys yra baltos Papildoma savybė yra paviršiaus skaidri danga.
+Ilgis: 71,5 cm. ]]></long-description>
+<long-description-ru><![CDATA[Skaidrus skėtis.
+Daugeliu atvejų skėtis yra naudingas aksesuaras, kuris papildomai apsaugo mus nuo lietaus, vėjo ar saulės.
+Apibūdinimas:
+Labai lengva atidaryti tik viena ranka. Rėmas yra juodas, rankena ir visos kitos dalys yra baltos Papildoma savybė yra paviršiaus skaidri danga.
+Ilgis: 71,5 cm.]]></long-description-ru>
+<long-description-lv><![CDATA[Skaidrus skėtis.
+Daugeliu atvejų skėtis yra naudingas aksesuaras, kuris papildomai apsaugo mus nuo lietaus, vėjo ar saulės.
+Apibūdinimas:
+Labai lengva atidaryti tik viena ranka. Rėmas yra juodas, rankena ir visos kitos dalys yra baltos Papildoma savybė yra paviršiaus skaidri danga.
+Ilgis: 71,5 cm.]]></long-description-lv>
+<long-description-ee><![CDATA[Skaidrus skėtis.
+Daugeliu atvejų skėtis yra naudingas aksesuaras, kuris papildomai apsaugo mus nuo lietaus, vėjo ar saulės.
+Apibūdinimas:
+Labai lengva atidaryti tik viena ranka. Rėmas yra juodas, rankena ir visos kitos dalys yra baltos Papildoma savybė yra paviršiaus skaidri danga.
+Ilgis: 71,5 cm.]]></long-description-ee>
+<long-description-fi></long-description-fi>
+<properties>
+<property>
+<id><![CDATA[manufacturer]]></id>
+<values>
+<value><![CDATA[GMP]]></value>
+</values>
+</property>
+</properties>
+<colours>
+<colour>
+<images>
+<image>
+<url><![CDATA[https://www.google.com.jpg]]></url>
+</image>
+</images>
+<modifications>
+<modification>
+<weight>1.70</weight>
+<length>0.22</length>
+<height>0.41</height>
+<width>0.15</width>
+<attributes>
+<barcodes>
+<barcode><![CDATA[1326585236523]]></barcode>
+</barcodes>
+<supplier-code><![CDATA[98568test325]]></supplier-code>
+</attributes>
+</modification>
+</modifications>
+</colour>
+</colours>
