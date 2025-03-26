@@ -1,0 +1,35 @@
+
+<products>
+    <product>
+        <category-id>1268</category-id>
+        <category-name><![CDATA[Shirts]]></category-name>
+        <title><![CDATA[Product title LT language]]></title>
+        <long-description><![CDATA[<div>
+	<div><span>Long description, can be with HTML</span><br /></div>
+		<div>Some long description</div>
+		</div>]]></long-description>
+        <colours>
+            <colour>
+                <images>
+                    <image>
+                        <url>http://image.server.lt/?id=10</url>
+                    </image>
+                </images>
+                <modifications>
+                    <modification>
+                        <weight>1.2</weight>
+                        <length>0.2</length>
+                        <height>0.1</height>
+                        <width>1.2</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode><![CDATA[012345678901]]></barcode>
+                            </barcodes>
+                            <supplier-code><![CDATA[oxpg6964]]></supplier-code>
+                        </attributes>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </product>
+</products>
